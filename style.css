@@ -1,0 +1,38 @@
+.card-group {
+    display: flex;
+}
+
+.card-group>div {
+    margin: 45px auto;
+    padding: 15px;
+}
+
+.card div {
+    border: 3px solid grey;
+    border-radius: 20px;
+    width: 255px;
+    height: 300px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    margin: auto;
+}
